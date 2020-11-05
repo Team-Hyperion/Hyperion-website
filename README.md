@@ -23,3 +23,9 @@ This page displays this guide (kind of)
 
 ## Feedback
 This takes you to a page where you can submit us feedback or anything you want us to know
+
+## Hosting/Using of website
+To host the website
+- Download the files from the repository 
+- Using something like live server to host it locally
+- or use a service to host the website
