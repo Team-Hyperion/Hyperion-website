@@ -1,1 +1,17 @@
 Add pictures and videos incrementing from 1 up to this folder
+can only display up to 9 currently
+
+Ex:
+1.png
+2.png
+3.png
+4.png
+5.png
+
+or
+
+1.mp4
+2.mp4
+3.mp4
+4.mp4
+5.mp4
